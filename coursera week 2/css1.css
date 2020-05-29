@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 175%;
+    color:black;
+    background-color: peachpuff;
+}
+
+.container{
+    
+    color: black;
+    margin: 10px 10px 10px 10px;
+    border:3px peachpuff;
+
+}
+
+section{
+    position:relative;
+    background-color:  rgb(177, 166, 214);;
+    overflow:auto;
+    height:200px;
+    border:	5px solid peachpuff;
+    border-radius: 3%;
+	
+}
+
+#chicken {
+    text-align: center;
+    background-color:black;
+    color:peachpuff;
+    margin-left: 80%;
+}
+
+#beef {
+    text-align: center;
+    background-color:black;
+    color:peachpuff;
+    margin-left: 80%;
+}
+
+#sushi {
+    text-align: center;
+    background-color:black;
+    color:peachpuff;
+    margin-left: 80%;
+}
+
+p{
+    padding-left:10px;
+}
